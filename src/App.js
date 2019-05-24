@@ -6,7 +6,7 @@ import InputBox from './input-box/input.component';
 class App extends React.Component {
   render() {
   return (
-    <div className="App">
+    <div className="App ">
       <InputBox textValue="Sourabh"/>
     </div>
   );
